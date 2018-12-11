@@ -1,6 +1,6 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-
+  my_hash = {"apple" => "gala appple", "pepper" => "serrano", "tomato" => "roma"}
   
 end
 
@@ -21,6 +21,8 @@ def retrieval
                  }
 
   # Look up the value of the "oil paintings" key in the shipping_manifest hash below
+  
+  [oil_paintin]
 
 end
 
